@@ -1,7 +1,6 @@
 import React from 'react';
 import Player from './player';
 import players from './players';
-import App from './App';
 
 
 const PlayersList = () => {
@@ -22,4 +21,4 @@ const PlayersList = () => {
   );
 };
 
-export default App;
+export default PlayersList;
